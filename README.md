@@ -24,7 +24,3 @@
 </div>
 
 ---
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=821e&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
